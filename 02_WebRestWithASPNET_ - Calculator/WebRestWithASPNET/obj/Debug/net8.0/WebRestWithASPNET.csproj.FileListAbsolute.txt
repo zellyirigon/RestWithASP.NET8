@@ -1,0 +1,52 @@
+C:\Code\RestWithASP.NET8\RestWithASP.NET8\WebRestWithASPNET\WebRestWithASPNET\bin\Debug\net8.0\appsettings.Development.json
+C:\Code\RestWithASP.NET8\RestWithASP.NET8\WebRestWithASPNET\WebRestWithASPNET\bin\Debug\net8.0\appsettings.json
+C:\Code\RestWithASP.NET8\RestWithASP.NET8\WebRestWithASPNET\WebRestWithASPNET\bin\Debug\net8.0\WebRestWithASPNET.exe
+C:\Code\RestWithASP.NET8\RestWithASP.NET8\WebRestWithASPNET\WebRestWithASPNET\bin\Debug\net8.0\WebRestWithASPNET.deps.json
+C:\Code\RestWithASP.NET8\RestWithASP.NET8\WebRestWithASPNET\WebRestWithASPNET\bin\Debug\net8.0\WebRestWithASPNET.runtimeconfig.json
+C:\Code\RestWithASP.NET8\RestWithASP.NET8\WebRestWithASPNET\WebRestWithASPNET\bin\Debug\net8.0\WebRestWithASPNET.dll
+C:\Code\RestWithASP.NET8\RestWithASP.NET8\WebRestWithASPNET\WebRestWithASPNET\bin\Debug\net8.0\WebRestWithASPNET.pdb
+C:\Code\RestWithASP.NET8\RestWithASP.NET8\WebRestWithASPNET\WebRestWithASPNET\obj\Debug\net8.0\WebRestWithASPNET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\RestWithASP.NET8\RestWithASP.NET8\WebRestWithASPNET\WebRestWithASPNET\obj\Debug\net8.0\WebRestWithASPNET.AssemblyInfoInputs.cache
+C:\Code\RestWithASP.NET8\RestWithASP.NET8\WebRestWithASPNET\WebRestWithASPNET\obj\Debug\net8.0\WebRestWithASPNET.AssemblyInfo.cs
+C:\Code\RestWithASP.NET8\RestWithASP.NET8\WebRestWithASPNET\WebRestWithASPNET\obj\Debug\net8.0\WebRestWithASPNET.csproj.CoreCompileInputs.cache
+C:\Code\RestWithASP.NET8\RestWithASP.NET8\WebRestWithASPNET\WebRestWithASPNET\obj\Debug\net8.0\WebRestWithASPNET.MvcApplicationPartsAssemblyInfo.cache
+C:\Code\RestWithASP.NET8\RestWithASP.NET8\WebRestWithASPNET\WebRestWithASPNET\obj\Debug\net8.0\WebRestWithASPNET.sourcelink.json
+C:\Code\RestWithASP.NET8\RestWithASP.NET8\WebRestWithASPNET\WebRestWithASPNET\obj\Debug\net8.0\staticwebassets.build.json
+C:\Code\RestWithASP.NET8\RestWithASP.NET8\WebRestWithASPNET\WebRestWithASPNET\obj\Debug\net8.0\staticwebassets.development.json
+C:\Code\RestWithASP.NET8\RestWithASP.NET8\WebRestWithASPNET\WebRestWithASPNET\obj\Debug\net8.0\staticwebassets\msbuild.WebRestWithASPNET.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Code\RestWithASP.NET8\RestWithASP.NET8\WebRestWithASPNET\WebRestWithASPNET\obj\Debug\net8.0\staticwebassets\msbuild.build.WebRestWithASPNET.props
+C:\Code\RestWithASP.NET8\RestWithASP.NET8\WebRestWithASPNET\WebRestWithASPNET\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebRestWithASPNET.props
+C:\Code\RestWithASP.NET8\RestWithASP.NET8\WebRestWithASPNET\WebRestWithASPNET\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebRestWithASPNET.props
+C:\Code\RestWithASP.NET8\RestWithASP.NET8\WebRestWithASPNET\WebRestWithASPNET\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Code\RestWithASP.NET8\RestWithASP.NET8\WebRestWithASPNET\WebRestWithASPNET\obj\Debug\net8.0\scopedcss\bundle\WebRestWithASPNET.styles.css
+C:\Code\RestWithASP.NET8\RestWithASP.NET8\WebRestWithASPNET\WebRestWithASPNET\obj\Debug\net8.0\WebRestWithASPNET.dll
+C:\Code\RestWithASP.NET8\RestWithASP.NET8\WebRestWithASPNET\WebRestWithASPNET\obj\Debug\net8.0\refint\WebRestWithASPNET.dll
+C:\Code\RestWithASP.NET8\RestWithASP.NET8\WebRestWithASPNET\WebRestWithASPNET\obj\Debug\net8.0\WebRestWithASPNET.pdb
+C:\Code\RestWithASP.NET8\RestWithASP.NET8\WebRestWithASPNET\WebRestWithASPNET\obj\Debug\net8.0\WebRestWithASPNET.genruntimeconfig.cache
+C:\Code\RestWithASP.NET8\RestWithASP.NET8\WebRestWithASPNET\WebRestWithASPNET\obj\Debug\net8.0\ref\WebRestWithASPNET.dll
+C:\Code\RestWithASP.NET8\RestWithASP.NET8\02_WebRestWithASPNET_ - Calculator\WebRestWithASPNET\bin\Debug\net8.0\appsettings.Development.json
+C:\Code\RestWithASP.NET8\RestWithASP.NET8\02_WebRestWithASPNET_ - Calculator\WebRestWithASPNET\bin\Debug\net8.0\appsettings.json
+C:\Code\RestWithASP.NET8\RestWithASP.NET8\02_WebRestWithASPNET_ - Calculator\WebRestWithASPNET\bin\Debug\net8.0\WebRestWithASPNET.exe
+C:\Code\RestWithASP.NET8\RestWithASP.NET8\02_WebRestWithASPNET_ - Calculator\WebRestWithASPNET\bin\Debug\net8.0\WebRestWithASPNET.deps.json
+C:\Code\RestWithASP.NET8\RestWithASP.NET8\02_WebRestWithASPNET_ - Calculator\WebRestWithASPNET\bin\Debug\net8.0\WebRestWithASPNET.runtimeconfig.json
+C:\Code\RestWithASP.NET8\RestWithASP.NET8\02_WebRestWithASPNET_ - Calculator\WebRestWithASPNET\bin\Debug\net8.0\WebRestWithASPNET.dll
+C:\Code\RestWithASP.NET8\RestWithASP.NET8\02_WebRestWithASPNET_ - Calculator\WebRestWithASPNET\bin\Debug\net8.0\WebRestWithASPNET.pdb
+C:\Code\RestWithASP.NET8\RestWithASP.NET8\02_WebRestWithASPNET_ - Calculator\WebRestWithASPNET\obj\Debug\net8.0\WebRestWithASPNET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\RestWithASP.NET8\RestWithASP.NET8\02_WebRestWithASPNET_ - Calculator\WebRestWithASPNET\obj\Debug\net8.0\WebRestWithASPNET.AssemblyInfoInputs.cache
+C:\Code\RestWithASP.NET8\RestWithASP.NET8\02_WebRestWithASPNET_ - Calculator\WebRestWithASPNET\obj\Debug\net8.0\WebRestWithASPNET.AssemblyInfo.cs
+C:\Code\RestWithASP.NET8\RestWithASP.NET8\02_WebRestWithASPNET_ - Calculator\WebRestWithASPNET\obj\Debug\net8.0\WebRestWithASPNET.csproj.CoreCompileInputs.cache
+C:\Code\RestWithASP.NET8\RestWithASP.NET8\02_WebRestWithASPNET_ - Calculator\WebRestWithASPNET\obj\Debug\net8.0\WebRestWithASPNET.MvcApplicationPartsAssemblyInfo.cache
+C:\Code\RestWithASP.NET8\RestWithASP.NET8\02_WebRestWithASPNET_ - Calculator\WebRestWithASPNET\obj\Debug\net8.0\WebRestWithASPNET.sourcelink.json
+C:\Code\RestWithASP.NET8\RestWithASP.NET8\02_WebRestWithASPNET_ - Calculator\WebRestWithASPNET\obj\Debug\net8.0\staticwebassets.build.json
+C:\Code\RestWithASP.NET8\RestWithASP.NET8\02_WebRestWithASPNET_ - Calculator\WebRestWithASPNET\obj\Debug\net8.0\staticwebassets.development.json
+C:\Code\RestWithASP.NET8\RestWithASP.NET8\02_WebRestWithASPNET_ - Calculator\WebRestWithASPNET\obj\Debug\net8.0\staticwebassets\msbuild.WebRestWithASPNET.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Code\RestWithASP.NET8\RestWithASP.NET8\02_WebRestWithASPNET_ - Calculator\WebRestWithASPNET\obj\Debug\net8.0\staticwebassets\msbuild.build.WebRestWithASPNET.props
+C:\Code\RestWithASP.NET8\RestWithASP.NET8\02_WebRestWithASPNET_ - Calculator\WebRestWithASPNET\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebRestWithASPNET.props
+C:\Code\RestWithASP.NET8\RestWithASP.NET8\02_WebRestWithASPNET_ - Calculator\WebRestWithASPNET\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebRestWithASPNET.props
+C:\Code\RestWithASP.NET8\RestWithASP.NET8\02_WebRestWithASPNET_ - Calculator\WebRestWithASPNET\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Code\RestWithASP.NET8\RestWithASP.NET8\02_WebRestWithASPNET_ - Calculator\WebRestWithASPNET\obj\Debug\net8.0\scopedcss\bundle\WebRestWithASPNET.styles.css
+C:\Code\RestWithASP.NET8\RestWithASP.NET8\02_WebRestWithASPNET_ - Calculator\WebRestWithASPNET\obj\Debug\net8.0\WebRestWithASPNET.dll
+C:\Code\RestWithASP.NET8\RestWithASP.NET8\02_WebRestWithASPNET_ - Calculator\WebRestWithASPNET\obj\Debug\net8.0\refint\WebRestWithASPNET.dll
+C:\Code\RestWithASP.NET8\RestWithASP.NET8\02_WebRestWithASPNET_ - Calculator\WebRestWithASPNET\obj\Debug\net8.0\WebRestWithASPNET.pdb
+C:\Code\RestWithASP.NET8\RestWithASP.NET8\02_WebRestWithASPNET_ - Calculator\WebRestWithASPNET\obj\Debug\net8.0\WebRestWithASPNET.genruntimeconfig.cache
+C:\Code\RestWithASP.NET8\RestWithASP.NET8\02_WebRestWithASPNET_ - Calculator\WebRestWithASPNET\obj\Debug\net8.0\ref\WebRestWithASPNET.dll
