@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Code\\RestWithASP.NET8\\RestWithASP.NET8\\02_WebRestWithASPNET_ - Calculator\\WebRestWithASPNET\\WebRestWithASPNET.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\source\\RestWithASP.NET8\\02_WebRestWithASPNET_ - Calculator\\WebRestWithASPNET\\WebRestWithASPNET.csproj",
       "projectName": "WebRestWithASPNET",
-      "projectPath": "C:\\Code\\RestWithASP.NET8\\RestWithASP.NET8\\02_WebRestWithASPNET_ - Calculator\\WebRestWithASPNET\\WebRestWithASPNET.csproj",
+      "projectPath": "C:\\Users\\Admin\\source\\RestWithASP.NET8\\02_WebRestWithASPNET_ - Calculator\\WebRestWithASPNET\\WebRestWithASPNET.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Code\\RestWithASP.NET8\\RestWithASP.NET8\\02_WebRestWithASPNET_ - Calculator\\WebRestWithASPNET\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\source\\RestWithASP.NET8\\02_WebRestWithASPNET_ - Calculator\\WebRestWithASPNET\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

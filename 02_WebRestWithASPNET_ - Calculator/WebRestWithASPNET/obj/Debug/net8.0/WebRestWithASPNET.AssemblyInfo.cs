@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebRestWithASPNET")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d51c6bfd3f3fa512e66feca40c04cda51c6b6063")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+802e9ee004ee41bfdfd61e576f7fe1b5e25de068")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebRestWithASPNET")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebRestWithASPNET")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
